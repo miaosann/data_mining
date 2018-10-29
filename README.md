@@ -1,2 +1,2 @@
 # data_mining
-some algorithm in data mining
+some algorithms in data mining
