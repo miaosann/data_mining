@@ -1,4 +1,6 @@
 # data_mining
 some algorithms in data mining
-1、decision tree
-2、shallow neural networks
+<br>
+ 1、decision tree
+<br>
+ 2、shallow neural networks
