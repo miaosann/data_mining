@@ -4,3 +4,5 @@ some algorithms in data mining
  1、decision tree
 <br>
  2、shallow neural networks
+<br>
+ 3、deep neural networks
