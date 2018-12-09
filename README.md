@@ -6,3 +6,9 @@ some algorithms in data mining
  2、shallow neural networks
 <br>
  3、deep neural networks
+<br>
+ 4、Kmeans
+<br>
+ 5、AutoEncoder
+<br>
+ 6、Apriori
